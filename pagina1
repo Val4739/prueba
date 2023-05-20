@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Página prueba menú pilares</title>
+</head>
+
+<body>
+    <h2> Piramides <br> <span> Egipto</span></h2>
+    <div class="group"></div>
+    
+    <div class="item" style="--url: url(https://images.ecestaticos.com/3Z603uxvPdAW71-vTfiqb-p5850=/0x0:2272x1278/1200x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Ffb8%2F65d%2F6e9%2Ffb865d6e973efa18c0267982cc7936e0.jpg)">
+        <div class="overlay">
+        </div>
+        <div class="menu">
+            <label>Orden de campechanos</label>
+        </div>
+    </div>
+
+</div>
+
+<script src="script.js"></script>
+
+</body>
+
+</html>
